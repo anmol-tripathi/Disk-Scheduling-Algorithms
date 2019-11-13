@@ -1,4 +1,4 @@
-# Disk-Scheduling-Algorithm-
+# Disk-Scheduling-Algorithm
 Implemented various Disk Scheduling Algorithms in Python
 <br>
 <br><b> Following Disk Scheduling Algorithms are demonstrated:<br></b>
