@@ -34,3 +34,21 @@ Disk Access Time = Rotational Latency + Seek Time + Transfer Time
 <br><br>
 Disk Response Time<br>
 It is the average of time spent by each request waiting for the IO operation.
+
+## Working Snapshot
+<br>
+<img src="working snaps/img1.JPG">
+<img src="working snaps/img2.JPG">
+<br>
+<img src="working snaps/img3.JPG">
+<img src="working snaps/img4.JPG">
+<br>
+<img src="working snaps/img5.JPG">
+<img src="working snaps/img6.JPG">
+<br>
+<img src="working snaps/img7.JPG">
+<img src="working snaps/img8.JPG">
+<br>
+<img src="working snaps/img9.JPG">
+<img src="working snaps/img10.JPG">
+<br>
