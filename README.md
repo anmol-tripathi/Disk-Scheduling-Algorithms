@@ -1,4 +1,9 @@
 # Disk Scheduling Algorithms in Python
+
+
+<img src="https://img.shields.io/badge/Operating Systems-Disk Scheduling Algorithms-<green>"> <img src="https://img.shields.io/static/v1?label=Language&message=Python,Jupyter&color=blue">
+<br>
+
 Implemented various Disk Scheduling Algorithms in Python
 <br>
 <br><b> Following Disk Scheduling Algorithms are demonstrated:<br></b>
